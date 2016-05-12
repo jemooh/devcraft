@@ -8,7 +8,7 @@
 					<div class="counter-block counter-block-no-border">
 						<div class="counter-box">
 							<div class="counter-content">
-								<span class="count" data-from="0" data-to="20">0</span>
+								<span class="count" data-from="0" data-to="30">0</span>
 
 								<p class="title">speakers</p>
 							</div>
@@ -32,7 +32,7 @@
 					<div class="counter-block counter-block-no-border">
 						<div class="counter-box">
 							<div class="counter-content">
-								<span class="count" data-from="0" data-to="25">0</span>
+								<span class="count" data-from="0" data-to="24">0</span>
 								<p class="title">workshops</p>
 							</div>
 						</div>

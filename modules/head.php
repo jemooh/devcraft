@@ -6,7 +6,10 @@
 
 <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 <!--<link rel="stylesheet" type="text/css" href="css/custom-animations.css" />-->
-<link rel="stylesheet" type="text/css" href="css/style.css" />
-<!--<link rel="stylesheet" type="text/css" href="css/animateheader.css" />-->
+
+<!-- <link rel="stylesheet" type="text/css" href="css/clockcountdown.css" /> -->
 <!-- Bootstrap Core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+
+<!-- <link rel="stylesheet" type="text/css" href="css/style.css" /> -->
+<link rel="stylesheet" type="text/css" href="css/application.css" />

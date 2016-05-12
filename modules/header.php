@@ -4,8 +4,8 @@
        <div class="container">
          <div class="col-sm-2 col-xs-12 navigation-header">
            <a href="#" class="logo">
-             <img src="img/devcrafts_Logo.png" alt="Devcraft" width="119" height="21" class="retina-hide">
-             <img src="img/devcrafts_logo@2x.png" alt="Devcraft" width="129" height="22" class="retina-show">
+             <img src="img/devcrafts_Logo.png" alt="Devcraft" width="150" height="21" class="retina-hide">
+             <img src="img/devcrafts_logo@2x.png" alt="Devcraft" width="150" height="22" class="retina-show">
            </a>
            <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-controls="navigation">
              <span class="icon-bar"></span>

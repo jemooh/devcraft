@@ -1,0 +1,7 @@
+@mixin animate($delay) {
+    -webkit-transition: all $delay linear;
+    -moz-transition: all $delay linear;
+    -ms-transition: all $delay linear;
+    -o-transition: all $delay linear;
+    transition: all $delay linear;
+}
