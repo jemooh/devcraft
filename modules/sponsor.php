@@ -9,9 +9,9 @@
 
 			<div class="sponsors">
 				<div class="sponsor big"><img src="img/sponsors/footer-logo.png" alt=""></div>
-				<div class="sponsor big"><img src="img/sponsors/EnezaLogo.jpg" alt=""></div>
+				<!--<div class="sponsor big"><img src="img/sponsors/EnezaLogo.jpg" alt=""></div>
 				<div class="sponsor big"><img src="img/sponsors/gearbox_logo.png" alt=""></div>
-				<div class="sponsor big"><img src="img/sponsors/BrckLogo.png" alt=""></div>
+				<div class="sponsor big"><img src="img/sponsors/BrckLogo.png" alt=""></div>-->
 			</div>
     <!--
 			<div class="sponsors">

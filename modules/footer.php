@@ -8,7 +8,6 @@
         </a>
       </div >
       <div class="col-sm-4">
-        <h4>Contacts Us</h4>
         <ul class="list">
           <li><i class="fa fa-envelope"></i>consulting@ihub.co.ke</li>
           <p class="text-alt"><small>COPYRIGHT © 2016 IHUB NAIROBI. ALL RIGHTS RESERVED

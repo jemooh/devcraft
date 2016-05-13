@@ -7,7 +7,7 @@
 	</ul>
 	<div class="heading-block   centered-block align-center">
 		<div class="container">
-			<h5 class="heading-alt" style="margin-bottom: 20px;"><span class="fa fa-calendar-o base-clr-txt"></span>02.sep <span class="fa fa-map-marker base-clr-txt" style="margin-left: 14px;"></span>iHub Nairobi, Kenya</h5>
+			<h5 class="heading-alt" style="margin-bottom: 20px;"><span class="fa fa-calendar-o base-clr-txt"></span>sep.2016 <span class="fa fa-map-marker base-clr-txt" style="margin-left: 14px;"></span>Nairobi, Kenya</h5>
 
 			<img src="img/devcrafts_Logo.png"  class="logo2">
 			<h2>Conference</h2>

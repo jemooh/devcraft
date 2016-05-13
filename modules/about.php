@@ -4,8 +4,8 @@
     	<section id="about" class="section align-center">
     		<div class="container">
     			<!--<span class="fa big fa-microphone"></span>-->
-    			<h3>Software developers meets Software developers</h3>
-    			<p class="text-alt">Lorem Ipsum is simply dummy text of the printing and typesetting industry-<span class="highlight"> 2 days</span></p>
+    			<h3>Raising the quality of the local software development craft</h3>
+    			<p class="text-alt">Kenya’s software development industry’s biggest event<span class="highlight"> 2 days</span></p>
     			<br />
     			<br />
 
@@ -42,11 +42,7 @@
     						<div class="col-sm-7 align-left">
     							<h6>Workshops</h6>
     							<p>DevCraft was born out of the <a href="http://ihub.co.ke/training/craftmanship-training">Craftsmanship Series</a>, a series of developer-centric trainings that are aimed towards raising the quality of the software craft in Kenya.  After a successful round of trainings we decided to have a conference dedicated specifically to this topic. DevCraft will cater to developers of all skill levels and all languages covering major tracks like software development, professional practices, Dev-Ops, Scrum, APIs, software design, soft skills and emotional intelligence among others.</p>
-                  <ul>
-    								<li>Nisl cras vitae wisi odio amet.</li>
-    								<li>Lacus amet vestibulum belas</li>
-    								<li>Quis nunc curabitur assumenda</li>
-    							</ul>
+                
     						</div>
 
 
